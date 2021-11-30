@@ -1,0 +1,102 @@
+
+ul{
+   position: absolute;
+   left: 10cm;
+   top: 0cm;
+    
+}
+
+li{
+    font-size: 90%;
+    font-family: 'CarosBold',sans-serif !important;;
+     display: inline-block;
+     line-height: 50px;
+    padding: 0 15px;
+}
+#first{
+    position: relative;
+    left: 2cm;
+    top: 0.5cm;
+
+}
+#div2{
+    font-family: 'CarosBold',sans-serif !important;
+    font-size: 90%;
+}
+#dp1{
+    font-size: 120%;
+}
+#second{
+    width: 30%;
+    box-sizing: inherit;
+    padding: 0px 40px 0px 40px;
+    position: absolute;
+   left: 20cm;
+   top: 3cm;
+   background-color: white;
+    font-family: 'CarosBold',sans-serif !important;
+    color: #283A5E;
+    text-align: center;
+    border: thin solid whitesmoke;
+}
+#home{
+    background-color:rgb(237, 248, 252);
+    width: 100%;
+}
+#div2{
+    position:absolute;
+    bottom: 2cm;
+    left: 2cm;
+}
+#submit{
+    border: thin solid #ff4800;
+    background-color: #ff4800;
+    padding: 6px;
+    color: white;
+}
+#box{
+    position: absolute;
+    top:20cm
+    
+    
+    
+}
+#img1{
+    float: left;
+}
+#office{
+    text-align: center;
+    font-family: 'CarosBold',sans-serif !important;
+    position: relative;
+    left: 2cm;
+}
+figcaption{
+    font-family: 'CarosBold',sans-serif !important;
+}
+#follow{
+    position: absolute;
+    top: 42cm;
+    color:#545e77;
+}
+#us{
+    position: relative;
+    bottom: 0.5cm;
+    font-size: 110%;
+}
+#tr1{
+    position: relative;
+    left: 2cm;
+}
+#tr2{
+    position: relative;
+    left: 2cm;
+}
+#lst{
+    position: relative;
+    right: 2cm;
+    top: 45cm;
+}
+#menu{
+    background-image: url("/Images/Vector-1.png");
+    background-color: rgb(233, 246, 250);
+}
